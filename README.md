@@ -1,4 +1,4 @@
-### Eu sou o Bruno (bu), vamos explorar esse mundo da Inteligência artificial (IA).<hr><img src='https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif'>
+### Eu sou o Bruno (bu), vamos explorar esse mundo da tecnologia.<hr> ![Bruno (bu) GitHub stats](https://github-readme-stats.vercel.app/api?username=buqueiroz&show_icons=true&theme=tokyonight)   <img src='https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif' height='194px'  border-radius='4px' border-color='blue'>
 
 <!--
 **buqueiroz/buqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

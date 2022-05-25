@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/buqueiroz/apresentacao/main/imagens/full.png) <img src='https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif' height='194px'><img src='https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif' height='194px'><img src='https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif' height='194px' width='327px'>
+![Header](https://raw.githubusercontent.com/buqueiroz/apresentacao/main/imagens/full.png) <img src='https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif' height='194px'>
 
 <!--
 **buqueiroz/buqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

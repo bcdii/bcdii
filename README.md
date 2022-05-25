@@ -1,4 +1,10 @@
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%2C+I'm+Bruno%F0%9F%91%8B;+I'm+a+%F0%9F%9A%80+Brazil+developer+%F0%9F%9A%80"></p>
+
 ![Header](https://raw.githubusercontent.com/buqueiroz/apresentacao/main/imagens/stay.png) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buqueiroz&show_icons=true&theme=radical)
+
+
+
 <!--
 **buqueiroz/buqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

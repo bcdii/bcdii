@@ -1,5 +1,4 @@
-![Header](https://raw.githubusercontent.com/buqueiroz/apresentacao/main/imagens/full.png) <img src='https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif' height='194px'>
-
+![Header](https://raw.githubusercontent.com/buqueiroz/apresentacao/main/imagens/stay.png) <br>
 <!--
 **buqueiroz/buqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

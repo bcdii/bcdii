@@ -48,18 +48,15 @@
 ###
 
 <br clear="both">
-
-<img href="https://raw.githubusercontent.com/buqueiroz/buqueiroz/blob/output/snake.svg" alt="Snake animation" />
+  
+  
+  
+  
+![Snake animation](https://github.com/buqueiroz/buqueiroz/blob/main/snake1.svg)
 
 ###
 
-
-
-
 <p align="center"><img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" ></p>
-
-
-
 
 <!--
 **buqueiroz/buqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

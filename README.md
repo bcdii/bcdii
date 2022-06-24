@@ -59,9 +59,6 @@
 ###
 
 <p align="center"><img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" ></p>
-  
-  
-<p>https://buqueiroz.github.io/apresentacao/</p>
 
 
 <!--

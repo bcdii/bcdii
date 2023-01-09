@@ -22,16 +22,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?duration=9000&color=33F779&lines=Skills:" >
 <div align="left">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://github.com/buqueiroz/apresentacao/blob/main/imagens/mariadb.png" height="30" width="42" alt="csharp logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="42" alt="csharp logo"  />
+  <img src="https://img.icons8.com/color/512/javascript.png" height="" width="42" alt="javascript logo"  />
+  <img src="https://img.icons8.com/color/512/typescript.png" height="" width="42" alt="typescript logo"  />
+  <img src="https://img.icons8.com/color/512/react-native.png" height="" width="42" alt="react logo"  />
+  <img src="https://img.icons8.com/color/512/html-5.png" height="" width="42" alt="html5 logo"  />
+  <img src="https://img.icons8.com/color/512/css3.png" height="" width="42" alt="css3 logo"  />
+  <img src="https://img.icons8.com/color/512/python.png" height="" width="42" alt="python logo"  />
+  <img src="https://img.icons8.com/color/512/nodejs.png" height="" width="42" alt="node logo"  />
+  <img src="https://img.icons8.com/color/512/mysql-logo.png" height="" width="42" alt="mysql logo"  />
+  <img src="https://img.icons8.com/color/512/maria-db.png" height="" width="42" alt="mariadb logo"  />
+  <img src="https://img.icons8.com/color/512/git.png" height="" width="42" alt="git logo"  />
+  <img src="https://img.icons8.com/color/512/github.png" height="" width="42" alt="gihub logo"  />
   
      
 
@@ -40,12 +41,12 @@
   <p><img src="https://readme-typing-svg.herokuapp.com?duration=9000&color=F733A4&lines=Contact:"></p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.icons8.com/color/512/youtube-play.png" height="" width="42" alt="youtube logo"  />
+  <img src="https://img.icons8.com/nolan/512/instagram-new.png" height="" width="42" alt="instagram logo"  />
+  <img src="https://img.icons8.com/color/512/twitch--v2.png" height="" width="42" alt="twitch logo"  />
+  <img src="https://img.icons8.com/color/512/discord-new-logo.png" width="42" alt="discord logo"  />
+  <img src="https://img.icons8.com/color/512/gmail.png" width="42" alt="gmail logo"  />
+  <img src="https://img.icons8.com/color/512/linkedin.png" width="42" alt="linkedin logo"  />
 </div>
 
 ###

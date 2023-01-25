@@ -48,10 +48,6 @@
 
 <br clear="both">
   
-  
-  
-  
-![Snake animation](https://github.com/buqueiroz/buqueiroz/blob/main/snake1.svg)
 
 ###
 

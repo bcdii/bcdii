@@ -4,7 +4,7 @@
 <hr>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bcdii&theme=github-dark-dimmed)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=bcdii&theme=github-dark-dimmed)](https://git.io/streak-stats) -->
 
 
 ###
